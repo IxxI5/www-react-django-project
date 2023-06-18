@@ -105,7 +105,7 @@ Now we have to install and run the client application (React App).
 
 The client application (React App) is now running at http://127.0.0.1:3000.
 
-Now the full stack app (server and client) is running and the user may start to interact with it through the UI. Use the following stired (db.sqlite3) user credentials to explore the app's features:
+Now the full stack app (server and client) is running and the user may start to interact with it through the UI. Use the following stored (db.sqlite3) user credentials to explore the app's features:
 
 ```
 username: test
