@@ -1,5 +1,7 @@
 # [**JWT Auth with Django REST API**](https://medium.com/swlh/jwt-auth-with-djangorest-api-9fb32b99b33c)
 
+Author: IxxI5
+
 _Instructions on how to create a Django Web API with JWT Authentication, Login, Logout, Register and Notes endpoints along with SQLite CRUD Operations from Scratch. As a data model example is used a **Note** Class._
 
 ## Table of Contents
