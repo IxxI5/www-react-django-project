@@ -1,8 +1,6 @@
 # [FFHS CAS Full-Stack Development](https://www.ffhs.ch/en/degree-programmes/continuing-education/cas-full-stack-development)
 
-Repository von:
-
-STUD: IxxI5
+Author: IxxI5
 
 ## Words Wide Web
 
